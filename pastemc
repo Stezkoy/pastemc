@@ -24,7 +24,7 @@ set -e
 PROGRAM=${0##*/}
 
 # can be overriden from env
-: ${PASTE_URL='https://paste.mascloud.ru/api/create'}
+: ${PASTE_URL='https://paste.manjaro.ru/api/create'}
 #: ${PASTE_APIKEY='apikey'}
 
 # filter url for printing (remove password)
